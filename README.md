@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 Welcome to my GitHub profile</h1>
+<h1 align="center">Hello there! Welcome to my GitHub profile</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MeliV1/MeliV1/main/header-github.gif" width="100%" alt="Developer Banner"/>
 </p>
