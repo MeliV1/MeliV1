@@ -1,7 +1,11 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20there!%20Glad%20you%20stopped%20by.&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20there!%20Welcome%20to%20my%20GitHub%20profile&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random" />
 </div>
 
+<h1 align="center">Hello there! 👋 Welcome to my GitHub profile</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MeliV1/MeliV1/main/header-github.gif" width="100%" alt="Developer Banner"/>
+</p>
 
 ## 💫 About Me:
 Computer Science and Artificial Intelligence Engineering candidate, with an emphasis on Cybersecurity.<br>Expert in designing and developing intelligent tech solutions, including Machine Learning models (Computer Vision, NLP, Generative AI), Deep Learning, and Full-Stack (Java/Spring Boot) Frontend and Backend applications. I have hands-on experience developing projects for the health, social, and tech sectors, with skills in cloud platforms (AWS, Azure) and leading multidisciplinary teams.
@@ -10,10 +14,6 @@ Computer Science and Artificial Intelligence Engineering candidate, with an emph
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-melissa-vargas) 
 
 ---
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wally&height=100&section=header&text=Tech%20Stack%20&%20Skills&fontSize=35&fontColor=ffffff&fontAlign=50&fontAlignY=50&color=random&animation=twinkling" />
-</div>
 
 # 💻 Tech Stack:
 <p>Here are the technologies I use, organized by category. Click to expand!</p>
@@ -106,6 +106,7 @@ Computer Science and Artificial Intelligence Engineering candidate, with an emph
 </div>
 
 ---
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random" />
 </div>
