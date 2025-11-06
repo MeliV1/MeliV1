@@ -1,13 +1,13 @@
 <h1 align="center">Hello there! 👋 Welcome to my GitHub profile</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MeliV1/MeliV1/main/header-github.gif" width="100%" alt="Developer Banner"/>
+  <img src="https://raw.githubusercontent.com/MeliV1/MeliV1/main/header-github.gif" width="100%" alt="Developer Banner"/>
 </p>
 
 ## 💫 About Me:
 Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, con énfasis en Ciberseguridad.<br>Experta en el diseño y desarrollo de soluciones tecnológicas inteligentes, incluyendo modelos de Machine<br>Learning (Visión por Computador, NLP, IA Generativa), Deep Learning y aplicaciones Full-Stack (Java/Spring Boot)<br>Frontend y Backend. Cuento con experiencia práctica en el desarrollo de proyectos para los sectores salud, social<br>y tecnológico, poseo competencias en plataformas cloud (AWS, Azure) y liderazgo de equipos multidisciplinarios.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/laura-melissa-vargas) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/laura-melissa-vargas) 
 
 ---
 
@@ -16,7 +16,7 @@ Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, 
 
 <details>
 <summary><strong>Lenguajes de Programación</strong></summary>
-<br>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,7 +28,7 @@ Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, 
 
 <details>
 <summary><strong>IA, Machine Learning y Ciencia de Datos</strong></summary>
-<br>
+
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -48,7 +48,7 @@ Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, 
 
 <details>
 <summary><strong>Backend, Frontend y Bases de Datos</strong></summary>
-<br>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -60,7 +60,7 @@ Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, 
 
 <details>
 <summary><strong>Cloud, DevOps y Herramientas</strong></summary>
-<br>
+
 ![ANTLR](https://img.shields.io/badge/ANTLR-990000?style=for-the-badge&logo=ANTLR&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
