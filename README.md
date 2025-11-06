@@ -1,15 +1,17 @@
-<h1 align="center">Hello there! 👋 Welcome to my GitHub profile</h1>
+<h1 align="center">Hello there! Welcome to my GitHub profile</h1>
 
-<h2 align="left">Hi 👋! My name is Laura Melissa Vargas Molina and I'm a Computer Science & Artificial Intelligence Engineer from Bogotá, Colombia.</h2>
+<h2 align="left">Hi! My name is Laura Melissa Vargas Molina and I'm a Computer Science & Artificial Intelligence Engineer from Bogotá, Colombia.</h2>
 
 ###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-[cite_start]✨ **Focus:** Cybersecurity [cite: 100][cite_start], Full-Stack Development (Java/Spring Boot) [cite: 101][cite_start], and applied AI (Machine Learning, Computer Vision, NLP, GenAI)[cite: 101].<br>
-[cite_start]📚 **I'm currently learning:** Advanced Cloud Computing (AWS/Azure) [cite: 102] [cite_start]and strengthening my skills in Generative AI[cite: 131].<br>
-[cite_start]🎯 **Goals:** To design and develop intelligent, secure solutions for the health, social, and tech sectors[cite: 102].<br>
+✨ **Focus:** Cybersecurity, Full-Stack Development (Java/Spring Boot), and applied AI (Machine Learning, Computer Vision, NLP, GenAI).<br>
+📚 **I'm currently learning:** Advanced Cloud Computing (AWS/Azure) and strengthening my skills in Generative AI.<br>
+🎯 **Goals:** To design and develop intelligent, secure solutions for the health, social, and tech sectors.<br>
 💻 **Ask me about:** Python, Java, Spring Boot, Computer Vision, or Cloud Architecture.
 </p>
 
@@ -39,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original-wordmark.svg" height="40" alt="sql logo"  />
 </div>
 
 <h4 align="left">IA, Machine Learning y Ciencia de Datos</h4>
@@ -101,4 +101,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MeliV1/MeliV1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
