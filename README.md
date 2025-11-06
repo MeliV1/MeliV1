@@ -5,7 +5,7 @@
 ## About Me:
 Computer Science and Artificial Intelligence Engineering candidate, with an emphasis on Cybersecurity.<br>Expert in designing and developing intelligent tech solutions, including Machine Learning models (Computer Vision, NLP, Generative AI), Deep Learning, and Full-Stack (Java/Spring Boot) Frontend and Backend applications. I have hands-on experience developing projects for the health, social, and tech sectors, with skills in cloud platforms (AWS, Azure) and leading multidisciplinary teams.
 
-## ocials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-melissa-vargas) 
 
 ---
@@ -91,7 +91,7 @@ Computer Science and Artificial Intelligence Engineering candidate, with an emph
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeliV1&theme=date_night&hide_border=true&include_all_commits=true&count_private=false" alt="MeliV1's GitHub Stats"/>
   <br/>
