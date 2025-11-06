@@ -81,12 +81,16 @@ Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, 
 
 # 📊 GitHub Stats:
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=MeliV1&theme=date_night&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MeliV1&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeliV1&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=MeliV1&theme=date_night&hide_border=true&include_all_commits=true&count_private=false" alt="MeliV1's GitHub Stats"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MeliV1&theme=date_night&hide_border=true" alt="MeliV1's GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeliV1&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="MeliV1's Top Languages"/>
 </div>
 
 ---
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=MeliV1&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MeliV1&icon=0&color=0" alt="Visitor Count"/>
+  </a>
 </div>
