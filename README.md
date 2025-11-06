@@ -1,10 +1,10 @@
-<h1 align="center">Hello there! 👋 Welcome to my GitHub profile</h1>
+<h1 align="center">Hello there! Welcome to my GitHub profile</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MeliV1/MeliV1/main/header-github.gif" width="100%" alt="Developer Banner"/>
 </p>
 
 ## 💫 About Me:
-Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, con énfasis en Ciberseguridad.<br>Experta en el diseño y desarrollo de soluciones tecnológicas inteligentes, incluyendo modelos de Machine<br>Learning (Visión por Computador, NLP, IA Generativa), Deep Learning y aplicaciones Full-Stack (Java/Spring Boot)<br>Frontend y Backend. Cuento con experiencia práctica en el desarrollo de proyectos para los sectores salud, social<br>y tecnológico, poseo competencias en plataformas cloud (AWS, Azure) y liderazgo de equipos multidisciplinarios.
+Computer Science and Artificial Intelligence Engineering Candidate, with an emphasis on Cybersecurity.<br>Expert in the design and development of intelligent technological solutions, including Machine Learning (Computer Vision, NLP, Generative AI), Deep Learning, and Full-Stack (Java/Spring Boot) Frontend and Backend applications. I have practical experience in developing projects for the health, social, and technology sectors, with skills in cloud platforms (AWS, Azure) and leadership of multidisciplinary teams.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/laura-melissa-vargas) 
@@ -12,70 +12,56 @@ Candidata a Ingeniera en Ciencias de la Computación e Inteligencia Artificial, 
 ---
 
 # 💻 Tech Stack:
-<p>Aquí están las tecnologías que uso, organizadas por categoría. ¡Haz clic para expandir!</p>
 
-<details>
-<summary><strong>Lenguajes de Programación</strong></summary>
-
+### Lenguajes de Programación
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-</details>
+![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=sql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<details>
-<summary><strong>IA, Machine Learning y Ciencia de Datos</strong></summary>
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
-![NLTK](https://img.shields.io/badge/NLTK-30695A?style=for-the-badge&logo=NLTK&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-000000?style=for-the-badge&logo=Pillow&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white)
+### IA, Machine Learning y Ciencia de Datos
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-</details>
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-30695A?style=for-the-badge&logo=NLTK&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-000000?style=for-the-badge&logo=Pillow&logoColor=white)
 
-<details>
-<summary><strong>Backend, Frontend y Bases de Datos</strong></summary>
-
+### Desarrollo Backend y Web
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-</details>
+<br>
+• REST APIs • Microservicios • JPA
 
-<details>
-<summary><strong>Cloud, DevOps y Herramientas</strong></summary>
-
-![ANTLR](https://img.shields.io/badge/ANTLR-990000?style=for-the-badge&logo=ANTLR&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### Cloud, DevOps y Herramientas
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ANTLR](https://img.shields.io/badge/ANTLR-990000?style=for-the-badge&logo=ANTLR&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9B0A?style=for-the-badge&logo=pytest&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-</details>
+<br>
+• **AWS Services:** EC2, S3, SageMaker, Glue, EMR, Lambda, RDS
+• **Linux:** Ubuntu
+
+### Ciberseguridad
+• Análisis de Riesgos Informáticos
+• Criptografía (LFSR, RC4, SHA-3)
+• Seguridad de la Información
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
