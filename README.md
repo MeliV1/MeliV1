@@ -1,10 +1,8 @@
-<h1 align="center">Hello there! Welcome to my GitHub profile</h1>
+<h1 align="center">Hello there! 👋 Welcome to my GitHub profile</h1>
 
-<h2 align="left">Hi! My name is Laura Melissa Vargas Molina and I'm a Computer Science & Artificial Intelligence Engineer from Bogotá, Colombia.</h2>
+<h2 align="left">Hi 👋! My name is Laura Melissa Vargas Molina and I'm a Computer Science & Artificial Intelligence Engineer from Bogotá, Colombia.</h2>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h2 align="left">About me</h2>
 
@@ -14,13 +12,6 @@
 🎯 **Goals:** To design and develop intelligent, secure solutions for the health, social, and tech sectors.<br>
 💻 **Ask me about:** Python, Java, Spring Boot, Computer Vision, or Cloud Architecture.
 </p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeliV1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeliV1&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -98,7 +89,5 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
