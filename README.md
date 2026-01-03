@@ -93,11 +93,7 @@ Computer Science and Artificial Intelligence Engineering candidate, with an emph
 
 # GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeliV1&theme=date_night&hide_border=true&include_all_commits=true&count_private=false" alt="MeliV1's GitHub Stats"/>
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=MeliV1&theme=date_night&hide_border=true" alt="MeliV1's GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeliV1&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="MeliV1's Top Languages"/>
 </div>
 
 ---
